@@ -9,9 +9,9 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://6fdf-124-36-44-210.ngrok-free.app/openapi.yaml"
+    "url": "https://c5be5d76e7d9.ngrok.app/openapi.yaml"
   },
   "logo_url": "https://cdn2.ettoday.net/images/2297/d2297892.jpg",
   "contact_email": "support@example.com",
-  "legal_info_url": "https://6fdf-124-36-44-210.ngrok-free.app/legal"
+  "legal_info_url": "https://c5be5d76e7d9.ngrok.app/legal"
 }
