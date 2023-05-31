@@ -1,3 +1,11 @@
+https://juejin.cn/post/7235539402868277285
+掘金老哥写的hello插件
+使用chatgpt 提问hello 会返回 hello 的功能
+失败
+https://ngrok.com/
+这个要花钱的,没花钱会展示一个浸膏画面妨碍访问
+尝试在replit上在线创建(付费版 api自身可以使用,但是导入chatgpt时候报错 原因不明)
+
 # Express ChatGPT Plugin Starter 🚀
 
 The Express ChatGPT Plugin Starter is a foundational project for creating a ChatGPT plugin with Express.js. It serves as a boilerplate for developers to build and deploy plugins for ChatGPT.
