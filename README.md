@@ -6,6 +6,10 @@ https://ngrok.com/
 这个要花钱的,没花钱会展示一个警告画面妨碍访问
 (replit上在线创建(付费版 api自身可以使用,但是导入chatgpt时候报错 原因不明))
 
+内网穿透使用方法:
+```ngrok http 3000```
+
+
 
 
 # Express ChatGPT Plugin Starter 🚀
